@@ -1,9 +1,9 @@
 {
-  "name": "Toggl Button",
-  "short_name": "Toggl Button",
-  "version": "0.5.1",
+  "name": "Sailor's Toggl Button",
+  "short_name": "Sailor's Toggl Button",
+  "version": "1.2.0",
   "manifest_version": 2,
-  "description": "Add Official Toggl Online Timer to Popular Web Tools",
+  "description": "A modification of the Toggl button that sets the task name to a pivotal story ID and name",
   "background": {
     "scripts": [
       "scripts/background.js"
